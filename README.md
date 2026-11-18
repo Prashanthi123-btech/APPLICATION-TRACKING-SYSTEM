@@ -11,7 +11,7 @@ Coordinator and recruiter dashboards for managing job postings and applications
 **Installation**
 Clone the repository:
 
-git clone https://github.com/nikhilmalakar/application-tracking-system.git
+git clone https://github.com/Prashanthi123-btech/APPLICATION-TRACKING-SYSTEM.git
 cd application-tracking-system
 Install server dependencies:
 
